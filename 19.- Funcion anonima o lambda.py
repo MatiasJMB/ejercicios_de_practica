@@ -8,7 +8,6 @@
 
 def main():
     suma = lambda a, b: a + b
-    
     print(suma(2,3))
 
 if __name__ == '__main__':

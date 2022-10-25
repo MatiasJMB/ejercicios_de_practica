@@ -7,7 +7,7 @@
 
 # *args (siempre va al final)
 # Argumentos que no estan asociados a un nombre
-from __future__ import division
+# from __future__ import division
 
 
 def prueba_args(argumento, *args):
